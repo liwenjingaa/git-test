@@ -7,5 +7,10 @@ public class Test {
         System.out.println("添加信息222");
         System.out.println("添加信息333");
 
+        System.out.println("添加信息333");
+        System.out.println("添加信息333");
+        System.out.println("添加信息333");
+        System.out.println("添加信息333");
+
     }
 }
